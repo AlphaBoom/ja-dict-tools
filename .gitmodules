@@ -1,0 +1,3 @@
+[submodule "libs/kuroshiro"]
+	path = libs/kuroshiro
+	url = git@github.com:hexenq/kuroshiro.git

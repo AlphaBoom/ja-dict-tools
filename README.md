@@ -1,0 +1,1 @@
+工具代码关于处理https://github.com/Kaiyiwing/qwerty-learner的日语词典部分
